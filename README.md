@@ -2,6 +2,8 @@
 
 > this is a personal log
 
+> [源码地址](https://gitee.com/zbQAQ/vue-myLibrary)
+
 ## Build Setup
 
 ``` bash
